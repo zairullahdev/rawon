@@ -51,6 +51,6 @@ You can host this bot to make it stay online on Heroku.
 
 > © 2022 RB Project
 
-
+## Additional
 
 - [Click me for Free Bobux](https://youtu.be/qZWCxNDRVPc)
