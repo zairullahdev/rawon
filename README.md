@@ -42,20 +42,7 @@ $ npm start
 ### Heroku
 You can host this bot to make it stay online on Heroku.
 
-<a href="https://heroku.com/deploy?template=https://github.com/mzrtamp/rawon"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
-
-### Glitch
-You can use Glitch too for this project, featured with its code editor.
-
-1. Star and fork this project
-2. Go to [glitch.com](https://glitch.com) and make an account
-3. Click **New Project** then **Import from GitHub**, specify the pop-up field with `https://github.com/<your-name>/rawon` (without `<>`)
-4. Please wait for a while, this process takes some minutes
-5. Find `.env` file and delete it, find `.env_example` file and rename it back to `.env`
-6. After specifying `.env`, open **Tools** > **Terminal**
-7. Type `refresh`, and track the process from **Logs**
-
-<a href="https://glitch.com/edit/#!/import/github/mzrtamp/rawon"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/zairullahdev/rawon"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Run your bot in Heroku"></a>
 
 ## Project Maintainer
 - [@Mednoob](https://github.com/Mednoob)
